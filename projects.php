@@ -2,6 +2,7 @@
 
 <head>
 	<?php include("head.php"); ?>
+    <title>Twomey Interiors - Projects</title>
 </head>
 
 <body>
