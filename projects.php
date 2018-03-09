@@ -22,7 +22,6 @@
                         <h1>Projects</h1>
                         <p>We know it's hard to find the right company on the Internet. So much choice! That's why we wanted to display some of our past work to help you decide.</p>
                         <p>These our some of most transformed interiors, showing just what can be achieved when you set your mind to it.</p>
-                        <p><strong>Tap or click the images to compare before and after.</strong></p>
                     </div>
                 </div>
 
