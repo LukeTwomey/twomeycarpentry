@@ -2,7 +2,7 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Interiors - Homepage</title>
+    <title>Twomey Carpentry - Homepage</title>
     <meta name="robots" content="noindex,nofollow">
 </head>
 
@@ -19,7 +19,7 @@
 
                 <div class="text">
                     <div class="content">
-                        <h1>Twomey Interiors</h1>
+                        <h1>Twomey Carpentry</h1>
                         <p>We make your home beautiful again.</p>
                         <p>By combining our design skill and construction expertise, we guarantee you will be delighted with the finished result.</p>
                         <p>Give your home the makeover it deserves.</p>
