@@ -76,6 +76,12 @@
                         <a class="fancybox" href="images/projects/living4-l.jpg">
                             <img class="grid-item" src="images/projects/living4-s.jpg" srcset="images/projects/living4-m.jpg 640w, images/projects/living4-l.jpg 1200w" alt="Living room furniture"/>
                         </a>
+                        <a class="fancybox" href="images/projects/garden1-l.jpg">
+                            <img class="grid-item" src="images/projects/garden1-s.jpg" srcset="images/projects/garden1-m.jpg 640w, images/projects/garden1-l.jpg 1200w" alt="Garden pergola"/>
+                        </a>
+                        <a class="fancybox" href="images/projects/garden2-l.jpg">
+                            <img class="grid-item" src="images/projects/garden2-s.jpg" srcset="images/projects/garden2-m.jpg 640w, images/projects/garden2-l.jpg 1200w" alt="Garden pergola"/>
+                        </a>
 
                     </div>
                 </div>
