@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
+    console.log("here");
     /* To avoid FOUC (flash of unstyled content), js class is being added by the code in head. Remove this class from html element now document is ready */
     $('html').removeClass('js');
 

@@ -2,7 +2,7 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey bed7pentry - Projects</title>
+    <title>Twomey carpentry - Projects</title>
     <meta name="robots" content="noindex,nofollow">
 </head>
 
@@ -22,6 +22,8 @@
                         <h1>Projects</h1>
                         <p>We know it's hard to find the right company on the Internet. So much choice! That's why we wanted to display some of our past work to help you decide.</p>
                         <p>These our some of most transformed interiors, showing just what can be achieved when you set your mind to it.</p>
+                        <br>
+                        <p class="strong">Tap or click on the image to see a larger version.</p>
                     </div>
                 </div>
 
