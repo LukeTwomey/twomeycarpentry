@@ -23,7 +23,7 @@
                         <p>We make your home beautiful again.</p>
                         <p>By combining our design skill and construction expertise, we guarantee you will be delighted with the finished result.</p>
                         <p>Give your home the makeover it deserves.</p>
-                        <a href="about.php" class="button">Find out more about us</a>
+                        <a href="about" class="button">Find out more about us</a>
                     </div>
                 </div>
 
@@ -35,7 +35,7 @@
                         <h2>What We Do</h2>
                         <p>Our expert team can help with a wide range of tasks. From something as simple as a fresh lick of paint, to a complete home renovation involving demolishing and repositioning walls.</p>
                         <p>No job is too big or too small. </p>
-                        <a href="contact.php" class="button">See what we can do for you</a>
+                        <a href="contact" class="button">See what we can do for you</a>
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@
                     <div class="content">
                         <h2>Why We Do It</h2>
                         <p>We love what we do. Every bit of our enthusiasm gets poured into every project, and the finished article reflects that. We take great satisfaction in delighting our clients, and giving them something to cherish for years.</p>
-                        <a href="projects.php" class="button">View our previous work</a>
+                        <a href="projects" class="button">View our previous work</a>
                     </div>
                 </div>
 

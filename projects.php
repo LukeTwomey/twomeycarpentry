@@ -82,7 +82,7 @@
 
                 <div class="text">
                     <div class="content">
-                        <a href="contact.php" class="button">Contact us</a>
+                        <a href="contact" class="button">Contact us</a>
                     </div>
                 </div>
             </div>
