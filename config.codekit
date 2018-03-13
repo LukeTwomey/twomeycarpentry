@@ -333,28 +333,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/logo-old (2).png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12260,
-		"inputAbbreviatedPath": "\/images\/logo-old (2).png",
-		"outputAbbreviatedPath": "\/images\/logo-old (2).png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/logo-old.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1933,
-		"inputAbbreviatedPath": "\/images\/logo-old.png",
-		"outputAbbreviatedPath": "\/images\/logo-old.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -641,6 +619,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/projects\/garden1-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276339,
+		"inputAbbreviatedPath": "\/images\/projects\/garden1-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden1-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/garden1-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138232,
+		"inputAbbreviatedPath": "\/images\/projects\/garden1-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden1-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/garden1-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43024,
+		"inputAbbreviatedPath": "\/images\/projects\/garden1-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden1-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/garden2-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303955,
+		"inputAbbreviatedPath": "\/images\/projects\/garden2-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden2-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/garden2-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156754,
+		"inputAbbreviatedPath": "\/images\/projects\/garden2-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden2-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/garden2-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44710,
+		"inputAbbreviatedPath": "\/images\/projects\/garden2-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/garden2-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/projects\/hall1-l.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -707,6 +751,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/projects\/living1-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110218,
+		"inputAbbreviatedPath": "\/images\/projects\/living1-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living1-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living1-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31330,
+		"inputAbbreviatedPath": "\/images\/projects\/living1-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living1-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living1-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11884,
+		"inputAbbreviatedPath": "\/images\/projects\/living1-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living1-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living2-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166732,
+		"inputAbbreviatedPath": "\/images\/projects\/living2-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living2-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living2-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46082,
+		"inputAbbreviatedPath": "\/images\/projects\/living2-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living2-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living2-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18765,
+		"inputAbbreviatedPath": "\/images\/projects\/living2-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living2-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living3-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104735,
+		"inputAbbreviatedPath": "\/images\/projects\/living3-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living3-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living3-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33330,
+		"inputAbbreviatedPath": "\/images\/projects\/living3-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living3-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living3-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13121,
+		"inputAbbreviatedPath": "\/images\/projects\/living3-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living3-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living4-l.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119884,
+		"inputAbbreviatedPath": "\/images\/projects\/living4-l.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living4-l.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living4-m.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36678,
+		"inputAbbreviatedPath": "\/images\/projects\/living4-m.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living4-m.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/projects\/living4-s.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13601,
+		"inputAbbreviatedPath": "\/images\/projects\/living4-s.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/living4-s.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -758,6 +934,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/javascript\/jquery.validate.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascript\/jquery.validate.min.js",
+		"outputAbbreviatedPath": "\/javascript\/min\/jquery.validate.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/javascript\/min\/javascript-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -774,6 +961,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/projects.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/send-mail.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/send-mail.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

@@ -22,8 +22,8 @@
                         <h1>Contact Us</h1>
                         <p>Why not get in touch?</p>
                         <p>We can discuss your requirements and answer any questions you might have.</p>
-                        <a href="tel:+441234567890" class="button phone">Phone Us</a>
-                        <a href="mailto:luke@luketwomey.com" class="button email">Email Us</a>
+                        <a href="tel:+447923227280" class="button phone">Phone Us</a>
+                        <a href="mailto:info@twomeycarpentry.com" class="button email">Email Us</a>
                     </div>
                 </div>
 
@@ -32,11 +32,15 @@
                         <form class="contactForm" method="post" name="contactForm" novalidate="novalidate">
                             <input id="name" name="name" required="" placeholder="Name" type="text" aria-required="true" style="background-image: none; background-position: 0% 0%; background-repeat: repeat;">
                             <input id="email" name="email" required="" placeholder="E-mail" type="email" aria-required="true">
-                            <input name="subject" value=" has sent a new message" type="hidden">
+                            <input name="subject" value=" has sent a new message via the website" type="hidden">
                             <textarea id="message" name="message" required="" rows="3" placeholder="Message" aria-required="true"></textarea>
                             <input type="submit" value="Send message">
                         </form>
                     </div>
+                </div>
+
+                <div class="text success-text">
+                    <h2 class="success-message-sent hidden">Thank you for your message. We will be in touch as soon as possible.</h2>
                 </div>
 
             </div>
@@ -46,4 +50,6 @@
 	</div>
 
     <?php include("javascript-files.php"); ?>
+    <script src="/javascript/jquery.validate.min.js" type="text/javascript"></script>
+
 </body>

@@ -1,6 +1,5 @@
 $(document).ready(function () {
 
-    console.log("here");
     /* To avoid FOUC (flash of unstyled content), js class is being added by the code in head. Remove this class from html element now document is ready */
     $('html').removeClass('js');
 
@@ -67,5 +66,32 @@ $(document).ready(function () {
             percentPosition: true
         });
     });
+
+    // Add contact form submit handler - sends ajax request to send-mail.php file to send email
+    $(".contactForm").validate({
+            submitHandler: function(form) {
+                var formData = $(form).serialize();
+                $.ajax({
+                    type: "POST",
+                    url: "/send-mail.php",
+                    data: formData,
+                    success: function (data, textStatus, jqXHR) {
+                        requestComplete = true;
+                        $("#name").val('');
+                        $("#email").val('');
+                        $("#message").val('');
+                        $(".success-message-sent").show();
+                        $("input[type='submit']").removeClass("fail").addClass("success").val('Message Sent').delay(15000).queue(function () {
+                            $("input[type='submit']").removeClass("success").val('Send Message');
+                            $(".success-message-sent").hide();
+                        });
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        requestComplete = true;
+                        alert("Something went wrong. Please try again.")
+                    }
+                });
+            }
+        });
 
 });
