@@ -64,6 +64,15 @@
                         <a class="fancybox" href="images/projects/hall2-l.jpg">
                             <img class="grid-item" src="images/projects/hall2-s.jpg" srcset="images/projects/hall2-m.jpg 640w, images/projects/hall2-l.jpg 1200w" alt="Hall furniture"/>
                         </a>
+                        <a class="fancybox" href="images/projects/hall3-l.jpg">
+                            <img class="grid-item" src="images/projects/hall3-s.jpg" srcset="images/projects/hall3-m.jpg 640w, images/projects/hall3-l.jpg 1200w" alt="Hall furniture"/>
+                        </a>
+                        <a class="fancybox" href="images/projects/hall4-l.jpg">
+                            <img class="grid-item" src="images/projects/hall4-s.jpg" srcset="images/projects/hall4-m.jpg 640w, images/projects/hall4-l.jpg 1200w" alt="Hall furniture"/>
+                        </a>
+                        <a class="fancybox" href="images/projects/bathroom1-l.jpg">
+                            <img class="grid-item" src="images/projects/bathroom1-s.jpg" srcset="images/projects/bathroom1-m.jpg 640w, images/projects/bathroom1-l.jpg 1200w" alt="Bathroom furniture"/>
+                        </a>
                         <a class="fancybox" href="images/projects/living1-l.jpg">
                             <img class="grid-item" src="images/projects/living1-s.jpg" srcset="images/projects/living1-m.jpg 640w, images/projects/living1-l.jpg 1200w" alt="Living room furniture"/>
                         </a>
