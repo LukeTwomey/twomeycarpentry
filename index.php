@@ -20,9 +20,8 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.twomeycarpentry.com/" />
     <meta property="og:image" content="https://twomeycarpentry.com/images/home-banner.jpg" />
-    <meta property="og:image" content="https://twomeycarpentry.com/images/about-banner.jpg" />
-    <meta property="og:image" content="https://twomeycarpentry.com/images/contact-banner.jpg" />
-    <meta property="og:image" content="https://twomeycarpentry.com/images/projects-banner.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="590" />
     <meta property="og:description" content="Bexhill Carpentry Services" />
     <meta property="og:site_name" content="Twomey Carpentry" />
 </head>
