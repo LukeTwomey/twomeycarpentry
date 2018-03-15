@@ -68,7 +68,8 @@ $(document).ready(function () {
     });
 
     // Add contact form submit handler - sends ajax request to send-mail.php file to send email
-    $(".contactForm").validate({
+    if( $(".contact").length ){
+        $(".contactForm").validate({
             submitHandler: function(form) {
                 var formData = $(form).serialize();
                 $.ajax({
@@ -93,5 +94,6 @@ $(document).ready(function () {
                 });
             }
         });
+    }
 
 });
