@@ -2,7 +2,7 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey carpentry - Projects</title>
+    <title>Twomey Carpentry - Projects</title>
     <meta name="robots" content="noindex,nofollow">
 </head>
 
