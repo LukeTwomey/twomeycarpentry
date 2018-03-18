@@ -111,5 +111,6 @@
 		</div>
 	</div>
 
+    <?php include('backToTop.php'); ?>
     <?php include("javascript-files.php"); ?>
 </body>

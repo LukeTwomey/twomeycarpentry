@@ -49,6 +49,7 @@
 		</div>
 	</div>
 
+    <?php include('backToTop.php'); ?>
     <?php include("javascript-files.php"); ?>
     <script src="/javascript/jquery.validate.min.js" type="text/javascript"></script>
 
