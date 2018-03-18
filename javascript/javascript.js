@@ -15,6 +15,20 @@ $(document).ready(function () {
         FastClick.attach(document.body);
     });
 
+    $(window).scroll(function() {
+        if($(window).scrollTop() == 0) {
+            $(".backToTop").fadeOut();
+        }else{
+            $(".backToTop").fadeIn();
+        }
+    });
+
+    $(".backToTop").click(function(){
+        $("html, body").animate({
+            scrollTop: 0
+        },500);
+    });
+
 
     /*****************   NAV   *****************/
 
