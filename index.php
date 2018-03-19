@@ -20,9 +20,7 @@
                 <div class="text">
                     <div class="content">
                         <h1>Twomey Carpentry</h1>
-                        <p>We make your home beautiful again.</p>
-                        <p>By combining our design skill and construction expertise, we guarantee you will be delighted with the finished result.</p>
-                        <p>Give your home the makeover it deserves.</p>
+                        <p>Welcome to Twomey Carpentry, the definitive choice for all of your carpentry and joinery needs.</p>
                         <a href="about" class="button">Find out more about us</a>
                     </div>
                 </div>
@@ -32,10 +30,9 @@
 
                 <div class="text">
                     <div class="content">
-                        <h2>What We Do</h2>
-                        <p>Our expert team can help with a wide range of tasks. From something as simple as a fresh lick of paint, to a complete home renovation involving demolishing and repositioning walls.</p>
-                        <p>No job is too big or too small. </p>
-                        <a href="contact" class="button">See what we can do for you</a>
+                        <h2>Experience</h2>
+                        <p>With over forty years' experience in the industry, we have the unparalleled knowledge and expertise required to ensure your projects are completed to the very highest standard.</p>
+                        <a href="projects" class="button">View our previous projects</a>
                     </div>
                 </div>
 
@@ -44,9 +41,10 @@
 
                 <div class="text">
                     <div class="content">
-                        <h2>Why We Do It</h2>
-                        <p>We love what we do. Every bit of our enthusiasm gets poured into every project, and the finished article reflects that. We take great satisfaction in delighting our clients, and giving them something to cherish for years.</p>
-                        <a href="projects" class="button">View our previous work</a>
+                        <h2>Services</h2>
+                        <p>Covering Bexhill, Eastbourne and Hastings, we provide a wide range of services.<p> 
+                        <p>From smaller jobs such as putting up shelves and hanging doors, to larger projects like kitchen fitting and flooring.</p>
+                        <a href="/" class="button">View services we provide</a>
                     </div>
                 </div>
 
