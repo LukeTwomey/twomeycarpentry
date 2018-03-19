@@ -20,10 +20,10 @@
                 <div class="text">
                     <div class="content">
                         <h1>Projects</h1>
-                        <p>We know it's hard to find the right company on the Internet. So much choice! That's why we wanted to display some of our past work to help you decide.</p>
-                        <p>These our some of most transformed interiors, showing just what can be achieved when you set your mind to it.</p>
-                        <br>
-                        <p class="strong">Tap or click on the image to see a larger version.</p>
+                        <p>Rest assured that with our level of experience, you will be delighted with the quality and standard of our work.</p>
+                        <p>Below you will find just a small selection of our previous projects. For more information about any of this work, or any other project you have in mind, please do not hesitate to <a href="contact">contact us</a> for a chat.</p>
+                        <p><strong>Tap on any of the below images to view a larger version.</strong></p>
+                        <p></p>
                     </div>
                 </div>
 

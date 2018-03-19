@@ -150,6 +150,7 @@ input {
 
 button,
 .button,
+a .button,
 input[type="submit"]{
     .SmoothHover(0.5s);
     background: @mainPurple;
@@ -208,6 +209,29 @@ strong, bold{
     margin-right: 0;
 }
 
+a:link {
+    color: @mainPurple;
+    font-weight: 600;
+}
+
+a:visited {
+    color: @mainPurple;
+}
+
+a:hover {
+    color: @mainPurpleHover;
+}
+
+a:active {
+    color: @mainPurpleHover;
+}
+
+a.button:link,
+a.button:visited,
+a.button:hover, 
+a.button:active {
+    color: #fff;
+}
 
 /**************************************************************
 ******************         HEADER          *******************
@@ -500,7 +524,7 @@ label.error{
 
 footer{
     background: #fff;
-    font-size: 1rem;
+    font-size: 0.9rem;
     max-width: 1000px;
     margin: 0 auto;
     padding-bottom: 2em;
@@ -542,6 +566,10 @@ footer{
 svg {
     color: #686868;
     margin-right: 0.8em;
+}
+
+footer a:link {
+    font-weight: normal;
 }
 
 /****************************************************************************************************************

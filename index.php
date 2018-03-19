@@ -31,7 +31,7 @@
                 <div class="text">
                     <div class="content">
                         <h2>Experience</h2>
-                        <p>With over forty years' experience in the industry, we have the unparalleled knowledge and expertise required to ensure your projects are completed to the very highest standard.</p>
+                        <p>With over forty years' experience in the industry, we have the unparalleled knowledge and expertise required to ensure <a href="projects">your projects</a> are completed to the very highest standard.</p>
                         <a href="projects" class="button">Previous projects</a>
                     </div>
                 </div>
