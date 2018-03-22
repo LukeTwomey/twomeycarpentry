@@ -17,7 +17,7 @@
                     <img src="images/projects-banner.jpg"/>
                 </div>
 
-                <div class="text">
+                <div class="text first">
                     <div class="content">
                         <h1>Projects</h1>
                         <p>Rest assured that with our level of experience, you will be delighted with the quality and standard of our work.</p>
