@@ -178,12 +178,30 @@ button:hover, .button:hover, input[type="submit"]:hover{
     background-position: 10px;
 }
 
+.text.first {
+    padding-bottom: 1em;
+}
+
+.text.form-instruct {
+    padding: 0 2em 0.5em 2em;
+}
+
 .button.email{
     background-image: url("../images/icons/email.png");
     padding-left: 4em;
     background-size: 1.9em;
     background-repeat: no-repeat;
     background-position: 12px;
+}
+
+.contact-cta-container {
+    text-align: center;
+}
+
+.button.phone,
+.button.email {
+    display: inline-block;
+    margin: 0 4px 30px 4px;
 }
 
 em{
@@ -209,27 +227,27 @@ strong, bold{
     margin-right: 0;
 }
 
-a:link {
+.page-content a:link {
     color: @mainPurple;
     font-weight: 600;
 }
 
-a:visited {
+.page-content a:visited {
     color: @mainPurple;
 }
 
-a:hover {
+.page-content a:hover {
     color: @mainPurpleHover;
 }
 
-a:active {
+.page-content a:active {
     color: @mainPurpleHover;
 }
 
-a.button:link,
-a.button:visited,
-a.button:hover, 
-a.button:active {
+.page-content a.button:link,
+.page-content a.button:visited,
+.page-content a.button:hover, 
+.page-content a.button:active {
     color: #fff;
 }
 

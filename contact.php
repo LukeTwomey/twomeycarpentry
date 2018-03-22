@@ -17,13 +17,22 @@
                     <img src="images/contact-banner.jpg"/>
                 </div>
 
-                <div class="text">
+                <div class="text first">
                     <div class="content">
                         <h1>Contact Us</h1>
-                        <p>Why not get in touch?</p>
-                        <p>We can discuss your requirements and answer any questions you might have.</p>
-                        <a href="tel:+447923227280" class="button phone">Phone Us</a>
-                        <a href="mailto:info@twomeycarpentry.com" class="button email">Email Us</a>
+                        <p>Please do not hesitate to get in touch. We would be delighted to hear from you and discuss your requirements.</p>
+                        <p>No job is considered too small, and we can help with a wide range of services.</p>
+                    </div>
+                </div>
+
+                <div class="contact-cta-container">
+                    <a href="tel:+447923227280" class="button phone">Phone</a>
+                    <a href="mailto:info@twomeycarpentry.com" class="button email">Email</a>
+                </div>
+
+                <div class="text form-instruct">
+                    <div class="content">
+                        <p>Or send us a message using the form below.</p>
                     </div>
                 </div>
 
