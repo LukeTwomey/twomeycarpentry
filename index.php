@@ -21,7 +21,7 @@
                     <div class="content">
                         <h1>Twomey Carpentry</h1>
                         <p>Welcome to Twomey Carpentry, the definitive choice for all of your carpentry and joinery needs.</p>
-                        <a href="about" class="button">More about us</a>
+                        <a href="about" class="button">About us</a>
                     </div>
                 </div>
 
