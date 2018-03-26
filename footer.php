@@ -6,7 +6,7 @@
     <div class="contacts">
     	<i class="fas fa-phone fa-sm"></i><a href="tel:+447923227280">07923 227 280</a>
     	<br>
-    	<i class="fas fa-envelope fa-sm"></i><a href="mailto:info@twomeycarpentry.com">info@twomeycarpentry.com</a>
+    	<i class="fas fa-envelope fa-sm"></i><a href="mailto:info@twomeycarpentry.com?subject=Website Enquiry">info@twomeycarpentry.com</a>
     </div>
     <div class="copyright">
         <p>Copyright &copy; Twomey Carpentry 2018</p>

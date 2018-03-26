@@ -27,7 +27,7 @@
 
                 <div class="contact-cta-container">
                     <a href="tel:+447923227280" class="button phone">Phone</a>
-                    <a href="mailto:info@twomeycarpentry.com" class="button email">Email</a>
+                    <a href="mailto:info@twomeycarpentry.com?subject=Website Enquiry" class="button email">Email</a>
                 </div>
 
                 <div class="text form-instruct">
