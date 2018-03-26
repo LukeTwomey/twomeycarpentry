@@ -42,9 +42,9 @@
                 <div class="text">
                     <div class="content">
                         <h2>Services</h2>
-                        <p>Covering Bexhill, Eastbourne and Hastings, we provide a wide range of services.<p> 
+                        <p>Covering Bexhill, Eastbourne and Hastings, we provide a <a href="services">wide range of services</a>.<p> 
                         <p>From smaller jobs such as putting up shelves and hanging doors, to larger projects like kitchen fitting and flooring.</p>
-                        <a href="/" class="button">Services we provide</a>
+                        <a href="services" class="button">Services we provide</a>
                     </div>
                 </div>
 

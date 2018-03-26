@@ -21,7 +21,7 @@
                     <div class="content">
                         <h1>Contact Us</h1>
                         <p>Please do not hesitate to get in touch. We would be delighted to hear from you and discuss your requirements.</p>
-                        <p>No job is considered too small, and we can help with a wide range of services.</p>
+                        <p>No job is considered too small, and we can help with a wide range of <a href="services">services</a>.</p>
                     </div>
                 </div>
 
