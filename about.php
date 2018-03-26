@@ -20,10 +20,11 @@
                 <div class="text">
                     <div class="content">
                         <h1>About Us</h1>
-                        <p>Twomey Carpentry was established over twenty years ago, with the aim of producing quality work over quantity.</p>
-                        <p>Our expert craftsmen and women have undertaken extensive training, striving to be the very best at what they do.</p>
-                        <p>The jobs we take on are individually tailored to your requirements, and we work with you every step of the way to ensure the finished result is one you are happy with. After all, it's you that has to live with it from then on!</p>
-                        <a href="contact" class="button">Arrange a consultation</a>
+                        <p>Twomey Carpentry is owned and run by David Twomey, a City & Guilds qualified carpenter and joiner with over forty years’ experience in the industry.</p>
+
+                        <p>Based in Bexhill, we also cover the surrounding area including Eastbourne and Hastings.</p>
+
+                        <a href="services" class="button">Services we provide</a>
                     </div>
                 </div>
 
@@ -32,9 +33,11 @@
 
                 <div class="text">
                     <div class="content">
-                        <p>Whether you have some idea of the look you're aiming for, or need us to provide you with stunning moodboards and hand drawn designs to help provide some inspiration, we can accomodate all.</p>
-                        <p>Our designers painstakingly style every last detail to your brief, to guarantee a result you will love.</p>
-                        <a href="projects" class="button">View our previous work</a>
+                        <p>Our aim is to deliver <a href="projects">exceptional quality work</a> and customer satisfaction is paramount. We will work closely with you to fully understand your requirements and ensure you are delighted with the finished article.</p>
+
+                        <p>With past experience across a wide variety of sectors, we can provide a diverse range of <a href="services">services</a> including door hanging, flooring, lock fitting, shelving, loft ladders and many more besides.</p>
+
+                        <a href="contact" class="button">Contact Us</a>
                     </div>
                 </div>
 
