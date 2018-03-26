@@ -4,7 +4,7 @@
         <a href="http://www.twitter.com"><img src="images/icons/twitter.png"/></a>
     </div> -->
     <div class="contacts">
-    	<i class="fas fa-phone fa-sm"></i><a href="tel:+447923227280">07923 227 280</a>
+    	<i class="fas fa-phone fa-sm"></i><a href="tel:07923227280">07923 227 280</a>
     	<br>
     	<i class="fas fa-envelope fa-sm"></i><a href="mailto:info@twomeycarpentry.com?subject=Website Enquiry">info@twomeycarpentry.com</a>
     </div>
