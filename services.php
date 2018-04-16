@@ -29,12 +29,19 @@
                 <div class="ul-container">
                     <ul>
                         <li>Door lock fitting</li>
+                        <li>Fitted and free standing wardrobes / bedroom furniture</li>
+                        <li>Flat pack assembly</li>
                         <li>Flooring</li>
                         <li>Front door fitting</li>
+                        <li>Garden structures (pergolas / gazebos / sheds)</li>
                         <li>Internal door hanging</li>
+                        <li>Kitchen fitting</li>
                         <li>Loft ladders</li>
+                        <li>Radiator casings</li>
                         <li>Shelving</li>
-                        <li>Window framing</li>
+                        <li>Skirting boards / architraves</li>
+                        <li>Wall panelling</li>
+                        <li>Window fitting</li>
                     </ul>
                 </div>
 
@@ -43,19 +50,6 @@
                         <a href="contact" class="button">Contact us</a>
                     </div>
                 </div>
-
-         <!--        <div class="image about-bedroom">
-                </div>
-
-                <div class="text">
-                    <div class="content">
-                        <p>Our aim is to deliver <a href="projects">exceptional quality work</a> and customer satisfaction is paramount. We will work closely with you to fully understand your requirements and ensure you are delighted with the finished article.</p>
-
-                        <p>With past experience across a wide variety of sectors, we can provide a diverse range of <a href="services">services</a> including door hanging, flooring, lock fitting, shelving, loft ladders and many more besides.</p>
-
-                        <a href="contact" class="button">Contact Us</a>
-                    </div>
-                </div> -->
 
             </div>
 
