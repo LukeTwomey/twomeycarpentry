@@ -33,6 +33,12 @@
                         <h2>Experience</h2>
                         <p>With over forty years' experience in the industry, we have the unparalleled knowledge and expertise required to ensure <a href="projects">your projects</a> are completed to the very highest standard.</p>
                         <a href="projects" class="button">Previous projects</a>
+
+                        <blockquote>
+                            <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
+                            Very pleasant and helpful advice and solutions to the task. Very competitive on price. Has carried out several projects including fencing, special framework, double doors and partitions to site conditions. Was very professional and always turned up at the agreed times. Was very pleased with the work that was carried out and would certainly recommend.
+                            <cite>Mr. D. Cox, Cooden</cite>
+                        </blockquote>
                     </div>
                 </div>
 
