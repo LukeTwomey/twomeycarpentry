@@ -2,8 +2,8 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Carpentry - About</title>
-    <meta name="robots" content="noindex,nofollow">
+    <title>About | Twomey Carpentry</title>
+    <meta name="description" content="Twomey Carpentry is a local carpentry and joinery business operating in Bexhill, Hastings and Eastbourne. Run by David Twomey, a City & Guilds qualified carpenter and joiner with over 40 years’ experience in the industry, we can help you with projects of all sizes. Discover a little more about us!">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
                 <div class="text">
                     <div class="content">
                         <h1>About Us</h1>
-                        <p>Twomey Carpentry is owned and run by David Twomey, a City & Guilds qualified carpenter and joiner with over forty years’ experience in the industry.</p>
+                        <p>Twomey Carpentry is owned and run by David Twomey, a City & Guilds qualified carpenter and joiner with over 40 years’ experience in the industry.</p>
 
                         <p>Based in Bexhill, we also cover the surrounding area including Eastbourne and Hastings.</p>
 

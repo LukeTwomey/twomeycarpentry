@@ -2,8 +2,8 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Carpentry - Homepage</title>
-    <meta name="robots" content="noindex,nofollow">
+    <title>Homepage | Twomey Carpentry</title>
+    <meta name="description" content="Looking for an expert, reliable carpenter and joiner around Bexhill, Hastings and Eastbourne? Twomey Carpenty is run by David Twomey, a local carpenter/joiner with over 40 years' experience in the industry. See just what we can do for you!">
 </head>
 
 <body>

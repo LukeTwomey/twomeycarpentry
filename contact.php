@@ -2,8 +2,8 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Carpentry - Contact</title>
-    <meta name="robots" content="noindex,nofollow">
+    <title>Contact | Twomey Carpentry</title>
+    <meta name="description" content="We would love to hear from you regarding your next carpentry or joinery project. If you have any questions at all about services you require, please do get in touch to discuss the details. We can give expert advice and talk through the options with you. Contact us now!">
 </head>
 
 <body>

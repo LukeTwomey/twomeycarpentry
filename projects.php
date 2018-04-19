@@ -2,8 +2,8 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Carpentry - Projects</title>
-    <meta name="robots" content="noindex,nofollow">
+    <title>Projects | Twomey Carpentry</title>
+    <meta name="description" content="Twomey Carpentry are experts in all manner of projects. From small jobs to large, all our bespoke work is expertly created and finished. The final result speaks for itself. View some examples of previous projects we have worked on and see for yourself!">
 </head>
 
 <body>
@@ -107,11 +107,6 @@
                     </div>
                 </div>
             </div>
-
-                
-
-
-            <!-- </div> -->
 
             <?php include("footer.php"); ?>
 		</div>

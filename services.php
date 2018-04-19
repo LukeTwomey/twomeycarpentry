@@ -2,8 +2,8 @@
 
 <head>
 	<?php include("head.php"); ?>
-    <title>Twomey Carpentry - Services</title>
-    <meta name="robots" content="noindex,nofollow">
+    <title>Services | Twomey Carpentry</title>
+    <meta name="description" content="Twomey Carpentry can provide assistance with a huge number of services. Whether you require something simple like a door lock to be fitted, or something on a bigger scale - like a new fitted kitchen, we can help! Have a look at just some of the many services we provide. If there's anything you need which is not on the list, we can probably help with that too!">
 </head>
 
 <body>
