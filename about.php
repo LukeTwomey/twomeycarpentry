@@ -37,7 +37,7 @@
 
                         <p>With past experience across a wide variety of sectors, we can provide a diverse range of <a href="services.php">services</a> including door hanging, flooring, lock fitting, shelving, loft ladders and many more besides.</p>
 
-                        <a href="contact" class="button">Contact Us</a>
+                        <a href="contact.php" class="button">Contact Us</a>
                     </div>
                 </div>
 

@@ -22,10 +22,10 @@
                         <h1>Page Not found</h1>
                         <p>Oops! We're sorry, but we can't find the page you're looking for.</p>
                         <p>Perhaps one of the following will get you where you need to be:</p>
-                        <a href="/" class="button">Homepage</a>
-                        <a href="about" class="button">About</a>
-                        <a href="projects" class="button">projects</a>
-                        <a href="contact" class="button">Contact</a>
+                        <a href="index.php" class="button">Homepage</a>
+                        <a href="about.php" class="button">About</a>
+                        <a href="projects.php" class="button">projects</a>
+                        <a href="contact.php" class="button">Contact</a>
                     </div>
                 </div>
 

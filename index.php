@@ -21,7 +21,7 @@
                     <div class="content">
                         <h1>Twomey Carpentry</h1>
                         <p>Welcome to Twomey Carpentry, the definitive choice for all of your carpentry and joinery needs.</p>
-                        <a href="about" class="button">About us</a>
+                        <a href="about.php" class="button">About us</a>
                     </div>
                 </div>
 
@@ -32,7 +32,7 @@
                     <div class="content">
                         <h2>Experience</h2>
                         <p>With over forty years' experience in the industry, we have the unparalleled knowledge and expertise required to ensure <a href="projects.php">your projects</a> are completed to the very highest standard.</p>
-                        <a href="projects" class="button">Previous projects</a>
+                        <a href="projects.php" class="button">Previous projects</a>
 
                         <blockquote>
                             <i class="fas fa-quote-left fa-2x fa-pull-left"></i>
@@ -50,7 +50,7 @@
                         <h2>Services</h2>
                         <p>Covering Bexhill, Eastbourne and Hastings, we provide a <a href="services.php">wide range of services</a>.<p> 
                         <p>From smaller jobs such as putting up shelves and hanging doors, to larger projects like kitchen fitting and flooring.</p>
-                        <a href="services" class="button">Services we provide</a>
+                        <a href="services.php" class="button">Services we provide</a>
                     </div>
                 </div>
 
