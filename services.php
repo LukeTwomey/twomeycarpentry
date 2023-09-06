@@ -22,7 +22,7 @@
                         <h1>Services</h1>
                         <p>We provide a wide assortment of services, from small jobs to larger projects. Please see below for just some of the many services available.</p>
 
-                        <p>If what you have in mind is not listed, please do <a href="contact">get in touch</a> and we can go through the details with you.</p>
+                        <p>If what you have in mind is not listed, please do <a href="contact.php">get in touch</a> and we can go through the details with you.</p>
                     </div>
                 </div>
 

@@ -24,7 +24,7 @@
 
                         <p>Based in Bexhill, we also cover the surrounding area including Eastbourne and Hastings.</p>
 
-                        <a href="services" class="button">Services we provide</a>
+                        <a href="services.php" class="button">Services we provide</a>
                     </div>
                 </div>
 
@@ -33,9 +33,9 @@
 
                 <div class="text">
                     <div class="content">
-                        <p>Our aim is to deliver <a href="projects">exceptional quality work</a> and customer satisfaction is paramount. We will work closely with you to fully understand your requirements and ensure you are delighted with the finished article.</p>
+                        <p>Our aim is to deliver <a href="projects.php">exceptional quality work</a> and customer satisfaction is paramount. We will work closely with you to fully understand your requirements and ensure you are delighted with the finished article.</p>
 
-                        <p>With past experience across a wide variety of sectors, we can provide a diverse range of <a href="services">services</a> including door hanging, flooring, lock fitting, shelving, loft ladders and many more besides.</p>
+                        <p>With past experience across a wide variety of sectors, we can provide a diverse range of <a href="services.php">services</a> including door hanging, flooring, lock fitting, shelving, loft ladders and many more besides.</p>
 
                         <a href="contact" class="button">Contact Us</a>
                     </div>
